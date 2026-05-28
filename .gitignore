@@ -1,0 +1,9 @@
+build/
+cmake-build-*/
+*.yuv
+*.rgb
+*.rgba
+*.h264
+*.mp4
+*.avi
+*.mkv
