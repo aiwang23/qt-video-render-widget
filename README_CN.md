@@ -232,6 +232,8 @@ cmake-build-*/
 *.mkv
 ```
 
-## License
+## 开源协议
 
-请在这里补充许可证。
+本项目使用 Apache License 2.0 开源协议。
+
+详情请查看 [LICENSE](LICENSE)。
